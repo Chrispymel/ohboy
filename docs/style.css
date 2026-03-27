@@ -7,7 +7,7 @@ header{
 body {
 
     /*background:Navyblue*/
-    background: White;
+    background: Lime;
     font-family: Comic-sans, Papyrus, Helvetica, sans-serif;
 }
 
@@ -22,7 +22,7 @@ div.side-by-side {
 }
 
 figcaption{
-    color:Orange;
+    color:Cyan;
 }
 
 img {
